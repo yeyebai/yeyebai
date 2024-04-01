@@ -1,5 +1,8 @@
 ### Hi there 👋
+## 我是白也也 🐟
 
+- 🐧 目前大学生一枚，努力学习中
+- 📚 技术栈：C++， Java， python
 <!--
 **yeyebai/yeyebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
